@@ -1,1 +1,2 @@
-print("Terminal works!")
+from casino import main
+main()
